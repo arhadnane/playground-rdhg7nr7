@@ -2,9 +2,9 @@
 
 Nuggets numbers: 
 
-```C# runnable
-// { autofold
 using System;
+internal class NestedLoop
+    {
 
 private static void Main()
 {
@@ -109,14 +109,7 @@ private static void Main()
             return result;
         }
 
-
-Console.WriteLine("Hello World!");
-
-// { autofold
     }
-}
-// }
-```
 
 # Advanced usage
 
